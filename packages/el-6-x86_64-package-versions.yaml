@@ -1,0 +1,143 @@
+--- 
+pe-rubygem-trollop: 
+  version: 1.16.2-1.pe.el6
+pe-ruby-ri: 
+  version: 1.8.7.371-3.pe.el6
+pe-httpd-passenger: 
+  version: 2.2.11-15.pe.el6
+pe-ruby-ldap: 
+  version: 0.9.8-5.pe.el6
+pe-console-auth: 
+  version: 1.1.17-1.pe.el6
+pe-rubygem-json: 
+  version: 1.7.7-1.pe.el6
+pe-rubygem-rack: 
+  version: 1.1.6-1.pe.el6
+pe-libevent-devel: 
+  version: 2.0.13-3.el6
+pe-rubygem-hiera: 
+  version: 1.1.2-5.pe.el6
+pe-rubygem-activesupport: 
+  version: 2.3.17-1.pe.el6
+pe-console: 
+  version: 0.2.6-1.pe.el6
+pe-ruby-libs: 
+  version: 1.8.7.371-3.pe.el6
+pe-libevent: 
+  version: 2.0.13-3.el6
+pe-httpd-devel: 
+  version: 2.2.15-25.pe.el6
+pe-tanukiwrapper: 
+  version: 3.5.9-5.pe.el6
+pe-rubygems: 
+  version: 1.5.3-1.pe.el6
+pe-rubygem-net-ssh: 
+  version: 2.1.4-1.pe.el6
+pe-ruby-irb: 
+  version: 1.8.7.371-3.pe.el6
+pe-certificate-manager: 
+  version: 0.3.0-1.pe.el6
+pe-puppet-dashboard-baseline: 
+  version: 2.0.6-1.pe.el6
+pe-rubygem-excon: 
+  version: 0.14.1-1.pe.el6
+pe-rubygem-net-scp: 
+  version: 1.0.4-1.pe.el6
+pe-rubygem-dalli: 
+  version: 1.1.2-0.1.pe.el6
+pe-console-test: 
+  version: 0.2.6-1.pe.el6
+pe-virtual-java: 
+  version: 1.0-1.pe.el6
+pe-facter: 
+  version: 1.6.17-1.pe.el6
+pe-rubygem-builder: 
+  version: 3.0.0-1.pe.el6
+pe-ruby-devel: 
+  version: 1.8.7.371-3.pe.el6
+pe-puppet-server: 
+  version: 2.7.21-7.pe.el6
+pe-rubygem-fog: 
+  version: 1.5.0-1.pe.el6
+pe-rubygem-hiera-puppet: 
+  version: 1.0.0-2.pe.el6
+pe-live-management: 
+  version: 1.1.24-1.pe.el6
+pe-rubygem-ruby-hmac: 
+  version: 0.4.0-1.pe.el6
+pe-augeas-devel: 
+  version: 0.10.0-3.pe.el6
+pe-rubygem-stomp: 
+  version: 1.2.3-1.1.9.pe.el6
+pe-rubygem-activerecord: 
+  version: 2.3.17-1.pe.el6
+pe-mcollective-client: 
+  version: 1.2.1-14.pe.el6
+pe-rubygem-rack-csrf: 
+  version: 2.4.0-1.pe.el6
+pe-cloud-provisioner: 
+  version: 1.0.5-1.el6
+pe-rubygem-mime-types: 
+  version: 1.16-1.pe.el6
+pe-ruby-shadow: 
+  version: 1.4.1-8.pe.el6
+pe-mcollective: 
+  version: 1.2.1-14.pe.el6
+pe-puppet-dashboard: 
+  version: 1.2.10-26.pe.el6
+pe-ruby-mysql: 
+  version: 2.7.3-7.pe.el6
+pe-rubygem-ar-extensions: 
+  version: 0.9.5-2.pe.el6
+pe-augeas-libs: 
+  version: 0.10.0-3.pe.el6
+pe-puppet: 
+  version: 2.7.21-7.pe.el6
+pe-ruby: 
+  version: 1.8.7.371-3.pe.el6
+pe-rubygem-formatador: 
+  version: 0.2.0-1.pe.el6
+pe-mcollective-common: 
+  version: 1.2.1-14.pe.el6
+pe-rubygem-rake: 
+  version: 0.8.7-4.pe.el6
+pe-mod_ssl: 
+  version: 2.2.15-25.pe.el6
+pe-rubygem-sinatra: 
+  version: 1.2.6-0.2.pe.el6
+pe-virtual-mysql: 
+  version: 1.0-1.pe.el6
+pe-rubygem-multi-json: 
+  version: 1.0.3-1.pe.el6
+pe-rubygem-nokogiri: 
+  version: 1.5.0-3.pe.el6
+pe-puppet-enterprise-release: 
+  version: 2.8.1-1.pe.el6
+pe-httpd: 
+  version: 2.2.15-25.pe.el6
+pe-rubygem-tilt: 
+  version: 1.3.3-0.2.pe.el6
+pe-rubygem-rbvmomi: 
+  version: 1.3.0-1.pe.el6
+pe-augeas: 
+  version: 0.10.0-3.pe.el6
+pe-memcached: 
+  version: 1.4.7-2.el6
+pe-ruby-rdoc: 
+  version: 1.8.7.371-3.pe.el6
+pe-ruby-augeas: 
+  version: 0.4.1-1.pe.el6
+pe-rubygem-guid: 
+  version: 0.1.1-1.pe.el6
+pe-httpd-manual: 
+  version: 2.2.15-25.pe.el6
+pe-certificate-manager-test: 
+  version: 0.3.0-1.pe.el6
+pe-rubygem-stomp-doc: 
+  version: 1.2.3-1.1.9.pe.el6
+pe-httpd-tools: 
+  version: 2.2.15-25.pe.el6
+pe-memcached-devel: 
+  version: 1.4.7-2.el6
+pe-activemq: 
+  version: 5.6.0-2.pe.el6

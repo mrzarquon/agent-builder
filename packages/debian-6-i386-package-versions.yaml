@@ -1,0 +1,153 @@
+--- 
+pe-rubygem-trollop: 
+  version: 1.16.2-1puppet1
+pe-puppet-common: 
+  version: 2.7.21-1puppet5
+pe-httpd-passenger: 
+  version: 2.2.11-1puppet7
+pe-augeas-dbg: 
+  version: 0.10.0-1puppet5
+pe-ruby-ldap: 
+  version: 0.9.8-1puppet4
+pe-console-auth: 
+  version: 1.1.17-1puppet1
+pe-rubygem-json: 
+  version: 1.7.7-1puppet1
+pe-puppet-master: 
+  version: 2.7.21-1puppet5
+pe-libevent-devel: 
+  version: 2.0.13-1puppet3
+pe-rubygems-doc: 
+  version: 1.5.3-1puppet1
+pe-rubygem-hiera: 
+  version: 1.1.2-1puppet6
+pe-httpd-prefork-dev: 
+  version: 2.2.16-1puppet22
+pe-console: 
+  version: 0.2.6-1puppet1
+pe-libevent: 
+  version: 2.0.13-1puppet3
+pe-tanukiwrapper: 
+  version: 3.5.9-1puppet4
+pe-rubygems: 
+  version: 1.5.3-1puppet1
+pe-rubygem-net-ssh: 
+  version: 2.1.4-1puppet1
+pe-rake: 
+  version: 0.8.7-1puppet5
+pe-certificate-manager: 
+  version: 0.3.0-1puppet1
+pe-activesupport: 
+  version: 2.3.17-1puppet1
+pe-httpd-doc: 
+  version: 2.2.16-1puppet22
+pe-puppet-dashboard-baseline: 
+  version: 2.0.6-1puppet1
+pe-rubygem-excon: 
+  version: 0.14.1-1puppet1
+pe-rubygem-net-scp: 
+  version: 1.0.4-1puppet1
+pe-rubygem-dalli: 
+  version: 1.1.2-1puppet1
+pe-console-test: 
+  version: 0.2.6-1puppet1
+pe-libruby1.8-dbg: 
+  version: 1.8.7.371-1puppet1
+pe-ri1.8: 
+  version: 1.8.7.371-1puppet1
+pe-facter: 
+  version: 1.6.17-1puppet1
+pe-rubygem-builder: 
+  version: 3.0.0-1puppet1
+pe-activerecord: 
+  version: 2.3.17-1puppet1
+pe-rubygem-fog: 
+  version: 1.5.0-1puppet1
+pe-rubygem-hiera-puppet: 
+  version: 1.0.0-1puppet2
+pe-live-management: 
+  version: 1.1.24-1puppet1
+pe-rubygem-stomp: 
+  version: 1.2.3-1puppet1.1.9
+pe-rubygem-ruby-hmac: 
+  version: 0.4.0-1puppet1
+pe-certificate-manager-tests: 
+  version: 0.2.0.43-1puppetlabs1
+pe-mcollective-client: 
+  version: 1.2.1-1puppet11
+pe-httpd-common: 
+  version: 2.2.16-1puppet22
+pe-rubygem-rack-csrf: 
+  version: 2.4.0-1puppet2
+pe-cloud-provisioner: 
+  version: 1.0.5-puppet1
+pe-rubygem-mime-types: 
+  version: 1.16-1puppet1
+pe-puppet-agent: 
+  version: 2.7.21-1puppet5
+pe-ruby-shadow: 
+  version: 1.4.1-1puppet4
+pe-rubygems1.8: 
+  version: 1.5.3-1puppet1
+pe-rack: 
+  version: 1.1.6-1puppet1
+pe-mcollective: 
+  version: 1.2.1-1puppet11
+pe-puppet-dashboard: 
+  version: 1.2.10-1puppet27
+pe-libaugeas-dev: 
+  version: 0.10.0-1puppet5
+pe-ruby-mysql: 
+  version: 2.7.3-1puppet6
+pe-ruby1.8: 
+  version: 1.8.7.371-1puppet1
+pe-rubygem-ar-extensions: 
+  version: 0.9.5-1puppet1
+pe-rubygem-formatador: 
+  version: 0.2.0-1puppet1
+pe-rubygem-sinatra: 
+  version: 1.2.6-1puppet1
+pe-mcollective-common: 
+  version: 1.2.1-1puppet11
+pe-libruby1.8: 
+  version: 1.8.7.371-1puppet1
+pe-ruby1.8-dev: 
+  version: 1.8.7.371-1puppet1
+pe-httpd-mpm-worker: 
+  version: 2.2.16-1puppet22
+pe-rubygem-multi-json: 
+  version: 1.0.3-1puppet1
+pe-rubygem-nokogiri: 
+  version: 1.5.0-1puppet2
+pe-puppet-enterprise-release: 
+  version: 2.8.1-1puppet1
+pe-httpd: 
+  version: 2.2.16-1puppet22
+pe-rubygem-tilt: 
+  version: 1.3.3-1puppet1
+pe-rubygem-rbvmomi: 
+  version: 1.3.0-1puppet1
+pe-augeas-tools: 
+  version: 0.10.0-1puppet5
+pe-libaugeas0: 
+  version: 0.10.0-1puppet5
+pe-augeas-lenses: 
+  version: 0.10.0-1puppet5
+pe-httpd-bin: 
+  version: 2.2.16-1puppet22
+pe-memcached: 
+  version: 1.4.7-1puppet4
+pe-puppet-module-tool: 
+  version: 0.3.4-1puppet2
+pe-ruby-augeas: 
+  version: 0.4.1-1puppet1
+pe-rubygem-guid: 
+  version: 0.1.1-1puppet1
+pe-certificate-manager-test: 
+  version: 0.3.0-1puppet1
+pe-httpd-utils: 
+  version: 2.2.16-1puppet22
+pe-memcached-devel: 
+  version: 1.4.7-1puppet4
+pe-activemq: 
+  version: 5.6.0-1puppet1
