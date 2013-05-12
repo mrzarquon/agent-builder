@@ -1,0 +1,15 @@
+pe-puppet-enterprise-release
+pe-ruby
+pe-ruby-shadow
+pe-rubygem-stomp
+pe-rubygem-stomp-doc
+pe-mcollective-common
+pe-mcollective
+pe-facter
+pe-puppet
+pe-augeas
+pe-augeas-libs
+pe-ruby-augeas
+pe-ruby-ldap
+pe-rubygem-hiera
+pe-rubygem-hiera-puppet

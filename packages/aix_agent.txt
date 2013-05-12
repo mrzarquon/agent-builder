@@ -1,0 +1,13 @@
+pe-augeas
+pe-facter
+pe-mcollective
+pe-mcollective-common
+pe-puppet
+pe-puppet-enterprise-release
+pe-ruby
+pe-ruby-augeas
+pe-rubygem-hiera
+pe-rubygem-hiera-puppet
+pe-rubygem-json
+pe-rubygem-stomp
+pe-rubygems

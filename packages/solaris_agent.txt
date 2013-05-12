@@ -1,0 +1,12 @@
+PUPruby
+PUPopenssl
+PUPrubygems
+PUPstomp
+PUPmcollective
+PUPfacter
+PUPpuppet
+PUPhiera
+PUPhiera-puppet
+PUPjson
+PUPruby-augeas
+PUPaugeas
