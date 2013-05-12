@@ -1,6 +1,8 @@
 #!/bin/bash
 
+PACKAGES="packages"
+
 while read AGENT_PACKAGES; do
   echo enqueue_package "${AGENT_PACKAGES}"
-done < "rpm_agent.txt"
+done < "${PACKAGES}/rpm_agent.txt"
 
